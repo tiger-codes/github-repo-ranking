@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListView /> renders correctly 1`] = `
+<div
+  className="list-item-container"
+>
+  <div
+    className="primary"
+  >
+    abc
+  </div>
+  <div
+    className="secondary"
+  >
+    <span
+      className="fa fa-star checked"
+    />
+    <span>
+      100
+    </span>
+  </div>
+</div>
+`;
