@@ -1,0 +1,32 @@
+.dashboard-container  {
+    width: 60%;
+    padding: 20px;
+    border: 1px solid #8fcbdf;
+    .search-panel {
+        text-align: clear;
+    }
+    header {
+        font-size: 32px;
+        font-weight: 500;
+    }
+    .repo-table {
+        width: 70%;
+    }
+    a {
+        margin: 5px;
+    }
+    .hide-link {
+        visibility: hidden;
+    }
+    .pagination {
+        text-align: right;
+        a {
+            font-size: 18px;
+            text-transform: capitalize;
+        }
+    }
+    .total-count {
+        font-weight: 400;
+        font-size: 18px;
+    }
+}
